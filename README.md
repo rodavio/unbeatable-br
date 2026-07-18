@@ -64,6 +64,18 @@ Use-os no menu principal e confira o console do BepInEx caso algo não saia como
 
 No estado atual do plugin, diálogos, falantes e notificações são os itens mais confiáveis. Partes da interface ainda podem funcionar parcialmente ou não funcionar, portanto devem ser testadas no jogo antes de serem consideradas prontas.
 
+## Progresso da tradução
+| Episódio | Tradução | Revisão |
+| --- | --- | --- |
+| `Prólogo` | 100% | 80% |
+| `Episódio 1` | 100% | 60% |
+| `Episódio 2` | 100% | 60% |
+| `Episódio 3` | 50% | 0% |
+| `Episódio 4` | 0% | 0% |
+| `Episódio 5` | 0% | 0% |
+| `Episódio 6` | 0% | 0% |
+| `Sprites e texturas` | 0% | 0% |
+
 ## Boas práticas
 
 - Nunca trabalhe diretamente sobre o único arquivo original.
