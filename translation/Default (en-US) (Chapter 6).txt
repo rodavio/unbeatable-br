@@ -3372,271 +3372,271 @@
    1 Array Array (1678 items)
     0 int size = 1678
     [0]
-     1 string data = "Beat: now we woke up in my room"
+     1 string data = "Beat: agora nós acordamos no meu quarto"
     [1]
-     1 string data = "Beat: Now we are leaving said room"
+     1 string data = "Beat: Agora estamos saindo do quarto em questão"
     [2]
-     1 string data = "Beat: thats weird as fuck."
+     1 string data = "Beat: isso é estranho pra porra."
     [3]
-     1 string data = "Beat: we are outside on the street. wrow"
+     1 string data = "Beat: estamos no lado de fora na rua. wrow"
     [4]
-     1 string data = "Quaver: I have so much misplaced ennui and nostalgia about my mom"
+     1 string data = "Quaver: Sinto um tédio e nostalgia tão deslocados sem relação à minha mae"
     [5]
-     1 string data = "Quaver: shits [wave amount=2]<i> craaazy </i>[/wave]"
+     1 string data = "Quaver: que [wave amount=2]<i> loucuuura </i>[/wave]"
     [6]
-     1 string data = "Quaver: ...ok listen this is supposed to happen on the stairs. i know"
+     1 string data = "Quaver: ...ok escuta isso deveria acontecer nas escadas. eu sei"
     [7]
-     1 string data = "Quaver: but i really dont wanna be late on this task and i can make camera happen on the next step."
+     1 string data = "Quaver: mas eu realmente não quero me atrasar nessa tarefa e eu posso fazer a câmera funcionar na próxima etapa."
     [8]
-     1 string data = "Quaver: this will probably not be the place we leave from."
+     1 string data = "Quaver: esse provavelmente não vai ser o lugar onde partiremos."
     [9]
-     1 string data = "Quaver: oh well ill hate myself later."
+     1 string data = "Quaver: bom vou acabar me odiando mais tarde."
     [10]
-     1 string data = "Quaver: time for mopey :)"
+     1 string data = "Quaver: hora de ficar triste :)"
     [11]
-     1 string data = "Quaver: there would be a cutscene now."
+     1 string data = "Quaver: teria uma cutscene agora."
     [12]
-     1 string data = "Beat: I am talking with Brianna"
+     1 string data = "Beat: Eu estou falando com Brianna"
     [13]
-     1 string data = "Brianna: thats me"
+     1 string data = "Brianna: sou eu"
     [14]
-     1 string data = "Beat: ok  next scene champ"
+     1 string data = "Beat: ok  próxima cena campeão"
     [15]
-     1 string data = "Beat: ok listen"
+     1 string data = "Beat: ok escuta"
     [16]
-     1 string data = "Beat: I know how fucking late i am. ok."
+     1 string data = "Beat: Eu sei o quão atrasada eu to. ok."
     [17]
-     1 string data = "Beat: its in character haha"
+     1 string data = "Beat: combina com o personagem haha"
     [18]
-     1 string data = "Beat: ok for now just interact with the tree i guess."
+     1 string data = "Beat: ok por agora só interaja com a árvore eu acho."
     [19]
-     1 string data = "Beat: im gonna lose it"
+     1 string data = "Beat: eu vou surtar"
     [20]
-     1 string data = "Apoco: Oh, <i>hiiiii</i>."
+     1 string data = "Apoco: Oh, <i>oiiiii</i>."
     [21]
-     1 string data = "Apoco: We're so glad you showed up."
+     1 string data = "Apoco: Estamos tão felizes que apareceu."
     [22]
-     1 string data = "Poco: Our favorite little renegade."
+     1 string data = "Poco: Nossa renegadinha favorita."
     [23]
-     1 string data = "Apoco: We've been waiting for you for so, so, <i>soooo</i> long."
+     1 string data = "Apoco: Estamos esperando por você por tanto, tanto <i>taaaanto</i> tempo."
     [24]
-     1 string data = "Poco: Why'd you keep us waiting, Beat?"
+     1 string data = "Poco: Por que você nos deixaria esperando, Beat?"
     [25]
-     1 string data = "Apoco: We've got so much to talk about."
+     1 string data = "Apoco: Temos muito o que conversar."
     [26]
-     1 string data = "Poco: Soooooo much."
+     1 string data = "Poco: Muuuuito."
     [27]
-     1 string data = "BeatCircle: Can't you two take anything seriously?"
+     1 string data = "BeatCircle: Vocês dois não conseguem levar nada a sério?"
     [28]
-     1 string data = "Apoco: Always as much as it deserves."
+     1 string data = "Apoco: Sempre na medida certa."
     [29]
-     1 string data = "BeatCircle: I heard you both quit HARM."
+     1 string data = "BeatCircle: Eu ouvi vocês dois saíram da HARM."
     [30]
-     1 string data = "Apoco: Oh, don't come to us with the past."
+     1 string data = "Apoco: Ei, não venha pra gente com o passado."
     [31]
-     1 string data = "Poco: Ancient history."
+     1 string data = "Poco: Águas passadas."
     [32]
-     1 string data = "Apoco: Forget about it."
+     1 string data = "Apoco: Esqueça isso."
     [33]
-     1 string data = "Poco: We're on your side now, girlie!"
+     1 string data = "Poco: Estamos do seu lado agora, mocinha!"
     [34]
-     1 string data = "BeatCircle: Then work with me and let me-"
+     1 string data = "BeatCircle: Então trabalhem comigo e me deixem-"
     [35]
-     1 string data = "Apoco: You work with <i>us</i>."
+     1 string data = "Apoco: Você trabalha com a <i>gente</i>."
     [36]
-     1 string data = "Poco: But, of course, you're the boss."
+     1 string data = "Poco: Mas, claro, você que manda."
     [37]
-     1 string data = "BeatCircle: <i>You're not listening to me.</i> I'm trying to help you-"
+     1 string data = "BeatCircle: <i>Vocês não estão me escutando.</i> Eu tô tentando ajudar vocês-"
     [38]
-     1 string data = "Apoco: We're working on a great campaign for you."
+     1 string data = "Apoco: Nós estamos trabalhando numa ótima campanha pra você."
     [39]
-     1 string data = "Poco: We're workshopping it."
+     1 string data = "Poco: Estamos trabalhando juntos."
     [40]
-     1 string data = "Poco: "In a world…""
+     1 string data = "Poco: "Em um mundo…""
     [41]
-     1 string data = "Apoco: "...where music is illegal... and you do crimes.""
+     1 string data = "Apoco: "...onde música é ilegal... e você faz crimes.""
     [42]
-     1 string data = "Poco: Goosebumps."
+     1 string data = "Poco: Arrepios."
     [43]
-     1 string data = "Apoco: The right shivers."
+     1 string data = "Apoco: Os arrepios certos."
     [44]
-     1 string data = "Poco: So <i>snappy</i>, right? So <i>snazzy</i>. Gets the blood going."
+     1 string data = "Poco: Tão <i>estiloso</i>, né? Tão <i>chique</i>. Faz o sangue correr."
     [45]
-     1 string data = "Apoco: Don't you love it[interrupt/]?"
+     1 string data = "Apoco: Você não ama[interrupt/]?"
     [46]
-     1 string data = "Poco: <i>Love</i> it."
+     1 string data = "Poco: <i>Ama</i> isso."
     [47]
-     1 string data = "BeatCircle: But it doesn't really mean... anything."
+     1 string data = "BeatCircle: Mais isso não significa... nada."
     [48]
-     1 string data = "Poco: <i>None</i> of this means anything."
+     1 string data = "Poco: <i>Nada</i> disso significa nada."
     [49]
-     1 string data = "Apoco: Nothing does."
+     1 string data = "Apoco: Nada disso."
     [50]
-     1 string data = "BeatCircle: Oh, come on. You don't actually believe that."
+     1 string data = "BeatCircle: Ah, fala sério. Vocês não acreditam realmente nisso."
     [51]
-     1 string data = "BeatCircle: You're telling me you don't care about what you make?"
+     1 string data = "BeatCircle: Você tá me dizendo que você não liga para o que você faz?"
     [52]
-     1 string data = "Apoco: What, you're trying to dig deep down into the dark depths of our soul?"
+     1 string data = "Apoco: Que, você tá tentando se explorar as profundezas sombrias das nossas almas?"
     [53]
-     1 string data = "Apoco: I'm not sure you'll get anywhere with <i>that</i>, [wave amount=1]girlie.[/wave]"
+     1 string data = "Apoco: Eu não tenho certeza se você vai chegar em algum lugar com <i>isso</i>, [wave amount=1]mocinha.[/wave]"
     [54]
      1 string data = "BeatCircle: ..."
     [55]
-     1 string data = "BeatCircle: Does she feel the same way?"
+     1 string data = "BeatCircle: Ela se sente da mesma forma?"
     [56]
-     1 string data = "Poco: What, me? Of course."
+     1 string data = "Poco: Quem, eu? Claro."
     [57]
-     1 string data = "Poco: We're two peas in a soup."
+     1 string data = "Poco: Somos farinha do mesmo saco."
     [58]
-     1 string data = "BeatCircle: So, then, why?"
+     1 string data = "BeatCircle: Então, por quê?"
     [59]
-     1 string data = "Apoco: Be specific when you ask a question."
+     1 string data = "Apoco: Seja específica quando faz uma pergunta."
     [60]
-     1 string data = "BeatCircle: Why <i>do</i> you do this shit, anyway?"
+     1 string data = "BeatCircle: Por que você<i>faz</i> essa merda, afinal?"
     [61]
-     1 string data = "Apoco: Be more specific-"
+     1 string data = "Apoco: Seja mais especific-"
     [62]
-     1 string data = "Poco: Uh, because we're good at it?"
+     1 string data = "Poco: An, porque somos bons nisso?"
     [63]
      1 string data = "Apoco: ..."
     [64]
-     1 string data = "Apoco: ...yeah. It's not complicated."
+     1 string data = "Apoco: ...é. Não é complicado."
     [65]
-     1 string data = "Poco: It doesn't have to be more than that."
+     1 string data = "Poco: Não precisar ser mais que isso."
     [66]
-     1 string data = "BeatFlurry: Oh, come on, are you guys <i>really</i> that simple?"
+     1 string data = "BeatFlurry: Ah, fala sério, vocês são <i>realmente</i> tão ingênuos?"
     [67]
-     1 string data = "BeatFlurry: Nothing else going on?"
+     1 string data = "BeatFlurry: Nada mais acontecendo?"
     [68]
-     1 string data = "Poco: ...what's wrong with that?"
+     1 string data = "Poco: ...o que tem de errado nisso?"
     [69]
-     1 string data = "BeatFlurry: I expected more from you guys."
+     1 string data = "BeatFlurry: Eu esperava mais de vocês dois."
     [70]
-     1 string data = "Apoco: You have it the other way around."
+     1 string data = "Apoco: Você entendeu o contrário."
     [71]
-     1 string data = "Apoco: We're good enough we can do this on autopilot."
+     1 string data = "Apoco: Somos bons o suficiente podemos fazer isso no piloto automático."
     [72]
-     1 string data = "Apoco: Why give it more than it's worth?"
+     1 string data = "Apoco: Por que dar a isso mais do que vale?"
     [73]
-     1 string data = "BeatCircle: God. I didn't expect you two to be so <i>predictable</i>."
+     1 string data = "BeatCircle: Deus. Não esperava que vocês fossem tão <i>previsíveis</i>."
     [74]
-     1 string data = "Apoco: ...We aren't-"
+     1 string data = "Apoco: ...Nós não somos-"
     [75]
-     1 string data = "BeatCircle: Prove it, then."
+     1 string data = "BeatCircle: Provem, então."
     [76]
-     1 string data = "BeatCircle: "Oh, we're so over it.""
+     1 string data = "BeatCircle: "Ah, a gente não mais isso.""
     [77]
-     1 string data = "BeatCircle: "Oh, we don't have to put effort in. We just show up looking like this.""
+     1 string data = "BeatCircle: "Ah, não precisamos nos esforçar. Nós só aparecemos assim.""
     [78]
-     1 string data = "BeatCircle: Sure. Sure you do."
+     1 string data = "BeatCircle: Claro. claro que sim."
     [79]
-     1 string data = "Apoco: ...we're light on our feet. We're <i>flexible</i>. And we're <i>fast at</i>-"
+     1 string data = "Apoco: ...estamos leves como o vento. Somos <i>flexíveis</i>. E somos <i>rápidos em</i>-"
     [80]
-     1 string data = "BeatCircle: Nobody buys the act."
+     1 string data = "BeatCircle: Ninguém acredita nesse teatrinho."
     [81]
-     1 string data = "Poco: Yes they do-"
+     1 string data = "Poco: Sim eles acredi-"
     [82]
-     1 string data = "Apoco: It's <i>not</i> an act."
+     1 string data = "Apoco: Isso <i>não</i> é um teatrinho."
     [83]
-     1 string data = "BeatCircle: <i>I</i> don't buy the act."
+     1 string data = "BeatCircle: <i>Eu</i> não acredito nesse teatrinho."
     [84]
-     1 string data = "Apoco: There's nothing to buy. It's what it <i>is</i>."
+     1 string data = "Apoco: Não tem teatrinho. É o que <i>é</i>."
     [85]
-     1 string data = "Apoco: We're what you see on the tin."
+     1 string data = "Apoco: Entregamos exatamente o que prometemos."
     [86]
-     1 string data = "Poco: ...uh, yeah. That's..."
+     1 string data = "Poco: ...uh, claro. Isso é..."
     [87]
-     1 string data = "Apoco: I wouldn't expect you to understand."
+     1 string data = "Apoco: Eu não esperaria que você entendesse."
     [88]
-     1 string data = "Apoco: For us, it's <i>just a job</i>. We can take it or leave it."
+     1 string data = "Apoco: Para nós, é <i>só um trabalho</i>. Podemos pegar ou largar."
     [89]
-     1 string data = "Apoco: This isn't some deep-seated self expression."
+     1 string data = "Apoco: Isso não é algum tipo de autoexpressão profunda."
     [90]
-     1 string data = "Apoco: Again, Beat, <i>we make commercials</i>."
+     1 string data = "Apoco: De novo, Beat, <i>fazemos comerciais</i>."
     [91]
-     1 string data = "BeatCircle: You tell me you put <i>nothing</i> of yourself into that?"
+     1 string data = "BeatCircle: Quer me dizer que você não coloca <i>nada</i> de si mesmo nisso?"
     [92]
      1 string data = "Apoco: ..."
     [93]
-     1 string data = "BeatOffscreenLeft: It doesn't feel great when you get it right?"
+     1 string data = "BeatOffscreenLeft: Não é uma sensação ótima quando você acerta?"
     [94]
-     1 string data = "PocoScreenRight: Well, I mean, yeah, we... I like doing a good job."
+     1 string data = "PocoScreenRight: Bem, quer dizer, sim, nós... Eu gosto de fazer um bom trabalho."
     [95]
-     1 string data = "BeatCircle: It doesn't hurt at all when you mess it up?"
+     1 string data = "BeatCircle: Não te machuca nada quando você erra?"
     [96]
-     1 string data = "BeatCircle: Like you did with <i>me</i>."
+     1 string data = "BeatCircle: Como você fez <i>comigo</i>."
     [97]
-     1 string data = "BeatCircle: Never forget I <i>beat you two</i>."
+     1 string data = "BeatCircle: Nunca esqueçam Eu <i>ganhei de vocês dois</i>."
     [98]
-     1 string data = "ApocoKneel: [shake amount=0.7]Come on.[/shake] Do you really think we thought about that at <i>all?</i>"
+     1 string data = "ApocoKneel: [shake amount=0.7]Fala sério.[/shake] Você realmente acha que <i>chegamos</i> a penssar nisso?"
     [99]
-     1 string data = "PocoKneel: <b>Of course it hurts!</b> It... uh..."
+     1 string data = "PocoKneel: <b>É claro que machuca!</b> É... uh..."
     [100]
-     1 string data = "ApocoKneel: ...It's <i>fine.</i> It's a bump."
+     1 string data = "ApocoKneel: ...Não é <i>nada.</i> Só uma fase."
     [101]
-     1 string data = "PocoKneel: Right, we don't let it get to us."
+     1 string data = "PocoKneel: Sim, não deixamos isso nos afetar."
     [102]
-     1 string data = "BeatCircle: Why does it hurt at all, though? If you're so above it all."
+     1 string data = "BeatCircle: Mas por que dói, afinal? Se você está tão acima de tudo."
     [103]
-     1 string data = "BeatCircle: If you didn't care about the thing you did."
+     1 string data = "BeatCircle: Se você não se importou com o que fez."
     [104]
-     1 string data = "BeatCircle: Just admit you <i>give a shit</i>. What are you embarrassed about?"
+     1 string data = "BeatCircle: Só admita você <i>liga</i>. Do que você está envergonhado?"
     [105]
-     1 string data = "PocoSide: It's not that. It's..."
+     1 string data = "PocoSide: Não é isso. É que..."
     [106]
-     1 string data = "ApocoSide: What, like you?"
+     1 string data = "ApocoSide: O que, como você?"
     [107]
-     1 string data = "BeatCircle: Yes! Of course I am!"
+     1 string data = "BeatCircle: Sim! É claro que estou!"
     [108]
-     1 string data = "BeatBottomRight: The shit I do is <i>the shit I am</i>."
+     1 string data = "BeatBottomRight: O que eu faço é <i>o que me define</i>."
     [109]
-     1 string data = "BeatBottomRight: And yeah, maybe it's not healthy just how much self-worth I attach to what I make."
+     1 string data = "BeatBottomRight: E sim, talvez não seja saudável o quanto do meu valor eu atrelo para o que eu faço."
     [110]
-     1 string data = "BeatBottomRight: But I'm a mature enough goddamn human being to admit-"
+     1 string data = "BeatBottomRight: Mas eu sou um ser humano maduro o suficiente, caramba, para admitir-"
     [111]
-     1 string data = "BeatCircle: I care when someone hates what I've made."
+     1 string data = "BeatCircle: E ligo quando alguém odeia o que eu faço."
     [112]
-     1 string data = "BeatCircle: And I love it when they love it."
+     1 string data = "BeatCircle: E eu amo quando eles amam."
     [113]
-     1 string data = "PocoSide: Maybe she's..."
+     1 string data = "PocoSide: Talvez ela..."
     [114]
-     1 string data = "ApocoSide: You can't listen to <i>this</i> Poco. She's just-"
+     1 string data = "ApocoSide: Você não pode escutar <i>isso</i> Poco. Ela só está-"
     [115]
-     1 string data = "PocoSide: She's what? What's she trying to do?"
+     1 string data = "PocoSide: Está o quê? O que ela tá tentando fazer?"
     [116]
-     1 string data = "PocoSide: She's too... messy to be anything else than what she is."
+     1 string data = "PocoSide: Ela é... complicada demais para ser algo diferente do que já é."
     [117]
      1 string data = "PocoSide: ..."
     [118]
-     1 string data = "PocoSide: What if she's right?"
+     1 string data = "PocoSide: E se ela estiver certa?"
     [119]
-     1 string data = "ApocoSide: We don't do this for ourselves. That's not the point of the job."
+     1 string data = "ApocoSide: Nós não fazemos isso por nós mesmos. Esse não é o objetivo do trabalho."
     [120]
-     1 string data = "ApocoSide: We make something else shinier."
+     1 string data = "ApocoSide: Nós fazemos outras coisas terem mais brilho."
     [121]
-     1 string data = "ApocoSide: ...And we move on."
+     1 string data = "ApocoSide: ...E seguimos em frente."
     [122]
-     1 string data = "PocoSide: ...the shine is a part of us."
+     1 string data = "PocoSide: ...esse brilho é uma parte de nós."
     [123]
-     1 string data = "Apoco: ...If that's true, then why has it gotten so hard, lately?"
+     1 string data = "Apoco: ...Se isso é verdade, então por que tem sido tão difícil ultimamente?"
     [124]
-     1 string data = "Apoco: Because this work has <i>been</i> fun."
+     1 string data = "Apoco: Por quê esse trabalho <i>tem</i> sido divertido."
     [125]
-     1 string data = "Apoco: I'm not..."
+     1 string data = "Apoco: Eu não..."
     [126]
-     1 string data = "Apoco: I know I'm not pretending that."
+     1 string data = "Apoco: Eu sei que não estou fingindo."
     [127]
-     1 string data = "Apoco: I like working with you on this."
+     1 string data = "Apoco: Eu gosto de trabalhar com você nisso."
     [128]
-     1 string data = "Apoco: I like..."
+     1 string data = "Apoco: Eu gosto..."
     [129]
-     1 string data = "Poco: Of course I like working with you!"
+     1 string data = "Poco: Mas é claro que eu gosto de trabalhar com você!"
     [130]
-     1 string data = "Poco: ...I wish I liked the thing we're doing, too."
+     1 string data = "Poco: ...Queria gostar do que fazemos, também."
     [131]
      1 string data = "Beat: Uggggh. Okay."
     [132]
-     1 string data = "Beat: (...I'm <b>not</b> opening that.)"
+     1 string data = "Beat: (...Eu <b>não</b> vou abrir isso.)"
     [133]
      1 string data = "Beat: (Whatever's in there is probably more alive than I am, right now.)"
     [134]

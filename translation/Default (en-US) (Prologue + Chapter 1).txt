@@ -9454,9 +9454,9 @@
     [1999]
      1 string data = "Quaver: ...esse é <i>o estádio,</i> Beat."
     [2000]
-     1 string data = "Beat: Quem tava jogando?"
+     1 string data = "Beat: Quem mandava aqui?"
     [2001]
-     1 string data = "Quaver: O que, baseball?"
+     1 string data = "Quaver: O que, o time de baseball?"
     [2002]
      1 string data = "Beat: Não, a banda."
     [2003]
@@ -9676,7 +9676,7 @@
     [2110]
      1 string data = "Quaver: Poderia ser."
     [2111]
-     1 string data = "Beat: <size=80%>Essa é a twilight zone?</size>[interrupt/]"
+     1 string data = "Beat: <size=80%>Essa é a quinta dimensão?</size>[interrupt/]"
     [2112]
      1 string data = "Quaver: Descreva ele."
     [2113]

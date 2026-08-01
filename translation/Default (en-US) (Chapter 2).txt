@@ -6770,7 +6770,7 @@
     [1398]
      1 string data = "Junglegymguy: Se eles deixassem, seria uma grande Coisa."
     [1399]
-     1 string data = "Junglegymguy: O Ball tá nos tribunais deles."
+     1 string data = "Junglegymguy: O advogado deles que apita."
     [1400]
      1 string data = "Otherinmate1: [sidebyside/]Isso demanda um processo."
     [1401]

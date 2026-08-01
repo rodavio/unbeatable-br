@@ -12136,505 +12136,505 @@
     [2033]
      1 string data = "Penny: Check 'em."
     [2034]
-     1 string data = "Beat: Why does science have to involve so much math?"
+     1 string data = "Beat: Por que ciência tem que involver tanta matemática?"
     [2035]
-     1 string data = "Brianna: I thought you liked math."
+     1 string data = "Brianna: Eu achei que você gostasse de matemática."
     [2036]
-     1 string data = "Beat: I like <i>puzzles</i>. I hate it when it's just work."
+     1 string data = "Beat: Eu gosto de <i>quebra-cabeças</i>. É muito chato quando é só trabalho."
     [2037]
-     1 string data = "Brianna: You have to work, though. You can't just be a deadbeat."
+     1 string data = "Brianna: Mas você tem que trabalhar. Você não pode ser simplesmente só uma parasita."
     [2038]
-     1 string data = "Beat: Watch me."
+     1 string data = "Beat: Vê só."
     [2039]
-     1 string data = "Beat: Anyway, the whole point of me being in college is to find a job I don't hate."
+     1 string data = "Beat: Enfim, todo o sentido de eu estar na faculdade é achar um emprego que eu não odeie."
     [2040]
-     1 string data = "Brianna: Sort of. Good luck with that, though."
+     1 string data = "Brianna: É mais ou menos isso. Mas boa sorte com isso."
     [2041]
-     1 string data = "Brianna: I take it scientist isn't on the list?"
+     1 string data = "Brianna: Eu acho que cientista não tá na lista?"
     [2042]
-     1 string data = "Beat: Probably not."
+     1 string data = "Beat: Provavelmente não."
     [2043]
-     1 string data = "Brianna: What's the math you're mad at?"
+     1 string data = "Brianna: Qual é o problema de matemática que tá te irritando?"
     [2044]
-     1 string data = "Beat: I'm trying to calculate..."
+     1 string data = "Beat: Eu tô tentando calcular..."
     [2045]
-     1 string data = "Beat: ...do you know what an acoustic beat is?"
+     1 string data = "Beat: ...você sabe o que é uma batida acústica?"
     [2046]
-     1 string data = "Beat: It's not the thing you think it is."
+     1 string data = "Beat: Não é o que você pensa que é."
     [2047]
-     1 string data = "Brianna: Well now that's the only thing I can think of."
+     1 string data = "Brianna: Bom, agora é a única coisa que eu consigo pensar."
     [2048]
-     1 string data = "Beat: So... well, the example the book gives to try and analogize it is..."
+     1 string data = "Beat: Então... bom, o exemplo que o livro dá pra tentar fazer uma analogia é..."
     [2049]
-     1 string data = "Beat: ...Okay, you run through a neighborhood and start hiting cars with your hand."
+     1 string data = "Beat: ...Okay, você corre por uma vizinhança e começa a bater nos carros com a sua mão."
     [2050]
-     1 string data = "Brianna: The <i>textbook</i> has this example?"
+     1 string data = "Brianna: O <i>livro</i> tem esse exemplo?"
     [2051]
-     1 string data = "Beat: Yes."
+     1 string data = "Beat: Sim."
     [2052]
-     1 string data = "Beat: So, you hit the cars with your hand, and this makes the alarms go off."
+     1 string data = "Beat: Daí, você bate nos carros com a sua mão, e isso faz os alarmes dos carros dispararem."
     [2053]
-     1 string data = "Beat: Let's just assume for the sake of making this easier that..."
+     1 string data = "Beat: Pelo bem de fazer isso ser mais fácil, vamos assumir que..."
     [2054]
-     1 string data = "Beat: Somehow you do it in such a way that all the alarms go off at the same exact time."
+     1 string data = "Beat: De alguma forma você faz de um jeito que todos os alarmes disparam exatamente ao mesmo tempo."
     [2055]
-     1 string data = "Beat: The thing is, even if they do, they all have slightly different rates."
+     1 string data = "Beat: Mas aí que tá, mesmo se for ao mesmo tempo, todos eles tem ritmos um pouco diferentes."
     [2056]
-     1 string data = "Beat: The little weeoo sound on each might be slightly slower or faster than the ones around it."
+     1 string data = "Beat: O barulho de weeoo de cada um pode ser um pouco mais lento ou mais rápido do que os outros."
     [2057]
-     1 string data = "Beat: But there are gonna be <i>several times</i> when they sync up perfectly."
+     1 string data = "Beat: Mas vão ter <i>várias vezes</i> que eles sincronizam perfeitamente."
     [2058]
-     1 string data = "Brianna: Sure."
+     1 string data = "Brianna: CLaro."
     [2059]
-     1 string data = "Beat: The difference between them syncing up perfectly and them being out of sync is the beat frequency,"
+     1 string data = "Beat: A diferença entre eles perfeitamente sincronizados e estarem fora de sincronia é a frequência da batida,"
     [2060]
-     1 string data = "Beat: And that sense of warbling in and out is kind of what a beat is."
+     1 string data = "Beat: O sentido de tremida meio que é a batida."
     [2061]
-     1 string data = "Beat: Well, this meaning of the word "beat." As in, not-"
+     1 string data = "Beat: Bem, esse sentido da palavra "batida." Tipo, sem ser-"
     [2062]
-     1 string data = "Brianna: Not you. Or the music thing."
+     1 string data = "Brianna: Sem ser você. Ou a da música."
     [2063]
-     1 string data = "Beat: This happens in music too, though."
+     1 string data = "Beat: Mas isso também acontece em músicas."
     [2064]
-     1 string data = "Brianna: ...I thought car alarms were a standardized thing."
+     1 string data = "Brianna: ...Eu achei que alarmes de carro eram uma coisa padrozinada."
     [2065]
-     1 string data = "Beat: I don't know."
+     1 string data = "Beat: Eu sei lá."
     [2066]
-     1 string data = "Beat: Anyway, yeah, I'm trying to figure out the, uh..."
+     1 string data = "Beat: Enfim, é, eu tô tentando descobrir o, uh..."
     [2067]
-     1 string data = "Beat: ...the differential between two frequencies to get the beat frequency."
+     1 string data = "Beat: ...o diferencial entre duas frequências pra achar a frequência da batida."
     [2068]
-     1 string data = "Beat: Basically: the beat happens because one of the waveforms is out of sync with the other one."
+     1 string data = "Beat: Basicamente: a batida acontece porque uma das ondas de som tá fora de sincronia com a outra"
     [2069]
-     1 string data = "Beat: And the effect gets more pronounced the less out of sync they are."
+     1 string data = "Beat: E o efeito se torna mais nítido quanto menor sincronia elas tiverem"
     [2070]
-     1 string data = "Beat: The closer they are together, the faster it gets."
+     1 string data = "Beat: Se elas estiverem mais perto uma da outra, fica mais rápido."
     [2071]
-     1 string data = "Beat: Until, suddenly, when they get perfectly in sync... there's nothing. The beat just disappears."
+     1 string data = "Beat: Até que, do nada, quando elas ficam perfeitamente sincronizadas... não tem nada. A batida simplesmente desaparece"
     [2072]
-     1 string data = "Brianna: What a peaceful world that would be."
+     1 string data = "Brianna: Seria um mundo bem pacífico."
     [2073]
      1 string data = "Beat: Ha ha ha ha ha ha ha. Ha."
     [2074]
-     1 string data = "Beat: ...I've been stuck on this same question for thirty minutes."
+     1 string data = "Beat: ...Eu estive presa nessa questão por trinta minutos."
     [2075]
-     1 string data = "Beat: Ugh... when did I fall asleep?"
+     1 string data = "Beat: Ugh... quando eu caí no sono?"
     [2076]
-     1 string data = "Beat: I feel like shit..."
+     1 string data = "Beat: Tô me sentindo igual merda..."
     [2077]
-     1 string data = "Beat: Anyone else want to work on this instead?"
+     1 string data = "Beat: Alguém quer trabalhar nisso no meu lugar?"
     [2078]
-     1 string data = "Beat: ...She said. To no one."
+     1 string data = "Beat: ...Ela disse. Pra ninguén."
     [2079]
-     1 string data = "Beat: I need to get back before they notice I'm gone."
+     1 string data = "Beat: Eu preciso voltar antes que eles percebam que eu não tô."
     [2080]
-     1 string data = "Beat: ...what the hell is[interrupt/]-"
+     1 string data = "Beat: ...o que diabos é[interrupt/]-"
     [2081]
-     1 string data = "Vacuum: H e l l o, B e a t."
+     1 string data = "Vacuum: O l á, B e a t."
     [2082]
-     1 string data = "Beat: Who? What? How did you know my[interrupt/]-"
+     1 string data = "Beat: Quem? O quê? Como você sabe o meu[interrupt/]-"
     [2083]
-     1 string data = "Vacuum: I  a m  v e r y  i n t u i t i v e."
+     1 string data = "Vacuum: E u  s o u  m u i t o  i n t u i t i v o."
     [2084]
-     1 string data = "Beat: You're a vacuum."
+     1 string data = "Beat: Você é um aspirador."
     [2085]
-     1 string data = "Vacuum: Y o u  a l s o  a r e  v e r y  i n t u i t i v e."
+     1 string data = "Vacuum: V o c ê  t a m b é m  é  m u i t o  i n t u i t i v a."
     [2086]
-     1 string data = "Beat: <size=80%>HARM logo on this thing.</size>"
+     1 string data = "Beat: <size=80%>Logo da HARM nessa coisa.</size>"
     [2087]
-     1 string data = "Vacuum: I  a m  n o t  a  t h i n[interrupt/]g"
+     1 string data = "Vacuum: E u  n ã o  s o u  u m a  c o i s [interrupt/]a"
     [2088]
-     1 string data = "Beat: Yes you are. How'd you get here?"
+     1 string data = "Beat: Você é sim. Como você chegou aqui?"
     [2089]
-     1 string data = "Vacuum: S e c r e t ."
+     1 string data = "Vacuum: S e g r e d o ."
     [2090]
      1 string data = "Beat: ..."
     [2091]
-     1 string data = "Quaver: ...oh, hey."
+     1 string data = "Quaver: ...ah, e aí."
     [2092]
-     1 string data = "Beat: I'm surprised you're still awake."
+     1 string data = "Beat: Eu tô surpresa que você ainda tá acordada."
     [2093]
-     1 string data = "Quaver: ...is this how late you usually come back?"
+     1 string data = "Quaver: ...você sempre volta tarde assim?"
     [2094]
-     1 string data = "Beat: ...uh. Yeah."
+     1 string data = "Beat: ...uh. É."
     [2095]
      1 string data = "Quaver: Beat..."
     [2096]
-     1 string data = "Beat: It's nothing. What's got you up?"
+     1 string data = "Beat: Não é nada. Por que você tá acordada?"
     [2097]
-     1 string data = "Quaver: Wondering about something. Actually, you might be able to help."
+     1 string data = "Quaver: Tô pensando em uma coisa. Na verdade, você talvez consiga me ajudar"
     [2098]
-     1 string data = "Quaver: You know that tape player you've got?"
+     1 string data = "Quaver: Você sabe qual é o seu toca-fitas?"
     [2099]
-     1 string data = "Beat: You're just... lying awake thinking about my tape player[interrupt/]-"
+     1 string data = "Beat: Você tá... acordada pensando sobre o meu toca-fitas[interrupt/]-"
     [2100]
-     1 string data = "Quaver: No, no. Is it okay if I use it?"
+     1 string data = "Quaver: Não, não. Tudo bem se eu usá-lo?"
     [2101]
      1 string data = "Beat: Uh..."
     [2102]
-     1 string data = "Quaver: Is that okay?"
+     1 string data = "Quaver: Tudo bem?"
     [2103]
-     1 string data = "Beat: It..."
+     1 string data = "Beat: É..."
     [2104]
-     1 string data = "Quaver: What do you always listen to, on there, any[interrupt/]-"
+     1 string data = "Quaver: De qualquer forma, o que você escuta nessa cois[interrupt/]-"
     [2105]
-     1 string data = "Beat: Old stuff. Nothing important."
+     1 string data = "Beat: Coisa velha. Nada importante."
     [2106]
      1 string data = "Quaver: ..."
     [2107]
-     1 string data = "Quaver: Here."
+     1 string data = "Quaver: Aqui."
     [2108]
-     1 string data = "Beat: This-"
+     1 string data = "Beat: Isso-"
     [2109]
-     1 string data = "Quaver: It's stupid, but it's this."
+     1 string data = "Quaver: É idiota, mas é isso"
     [2110]
-     1 string data = "Quaver: It's an old thing my mom did."
+     1 string data = "Quaver: É uma coisa velha que a minha mãe fez."
     [2111]
-     1 string data = "Quaver: I've always wondered what it sounded like."
+     1 string data = "Quaver: Eu sempre me perguntei como soava."
     [2112]
      1 string data = "Beat: ..."
     [2113]
-     1 string data = "Beat: Alright."
+     1 string data = "Beat: Beleza."
     [2114]
-     1 string data = "Beat: Ready?"
+     1 string data = "Beat: Pronta?"
     [2115]
      1 string data = "Quaver: ..."
     [2116]
-     1 string data = "Beat: That's the whole song?"
+     1 string data = "Beat: Essa é a música toda?"
     [2117]
-     1 string data = "Quaver: I guess it's just a demo? It never got finished."
+     1 string data = "Quaver: Acho que é só uma demo? Nunca foi finalizada."
     [2118]
-     1 string data = "Beat: She sounds really good."
+     1 string data = "Beat: Ela soa muito bem."
     [2119]
-     1 string data = "Quaver: She does."
+     1 string data = "Quaver: Soa mesmo."
     [2120]
      1 string data = "Quaver: ..."
     [2121]
-     1 string data = "Quaver: I'm glad I finally got to hear it."
+     1 string data = "Quaver: Fico feliz que consegui ouvir."
     [2122]
-     1 string data = "Quaver: I'm glad I got to hear it with you."
+     1 string data = "Quaver: Fico feliz que consegui ouvir com você."
     [2123]
      1 string data = "Beat: ..."
     [2124]
-     1 string data = "Beat: Here. Keep it safe for me, all right?"
+     1 string data = "Beat: Aqui. Cuida dele pra mim, beleza?"
     [2125]
      1 string data = "Quaver: Beat[interrupt/]-"
     [2126]
-     1 string data = "Beat: Goodnight, Quaver."
+     1 string data = "Beat: Boa noite, Quaver."
     [2127]
-     1 string data = "Quaver: Thank you, Beat."
+     1 string data = "Quaver: Obrigada, Beat."
     [2128]
-     1 string data = "Clef: Guys, uh. I'm..."
+     1 string data = "Clef: Gente, uh. Eu..."
     [2129]
-     1 string data = "Clef: I'm..."
+     1 string data = "Clef: Eu..."
     [2130]
      1 string data = "Clef: ..."
     [2131]
-     1 string data = "Treble: you're"
+     1 string data = "Treble: voce"
     [2132]
-     1 string data = "Clef: ...I feel like maybe we should...go after her?"
+     1 string data = "Clef: ...Eu acho que a gente devia talvez...ir atrás dela?"
     [2133]
-     1 string data = "Treble: i mean."
+     1 string data = "Treble: tipo."
     [2134]
-     1 string data = "Treble: obviously."
+     1 string data = "Treble: obvio."
     [2135]
-     1 string data = "Clef: God dammit."
+     1 string data = "Clef: Cacete."
     [2136]
-     1 string data = "Clef: All of us are always like this!"
+     1 string data = "Clef: A gente é sempre assim!"
     [2137]
-     1 string data = "Clef: Can we go five mintes without having a mental breakdown?"
+     1 string data = "Clef: Dá pra nós termos cinco minutos sem ter um colapso mental?"
     [2138]
-     1 string data = "Treble: [sidebyside/]some day."
+     1 string data = "Treble: [sidebyside/]algum dia."
     [2139]
-     1 string data = "Quaver: I don't have those[interrupt/]."
+     1 string data = "Quaver: Eu não tenho essas[interrupt/]."
     [2140]
-     1 string data = "Clef: CHILDREN AREN'T PEOPLE."
+     1 string data = "Clef: CRIANÇAS NÃO SÃO PESSOAS."
     [2141]
-     1 string data = "Clef: ...SORRY."
+     1 string data = "Clef: ...DESCULPA."
     [2142]
-     1 string data = "Clef: Sorry."
+     1 string data = "Clef: Desculpa."
     [2143]
-     1 string data = "Clef: Let's go."
+     1 string data = "Clef: Vamos."
     [2144]
-     1 string data = "Treble: already packed."
+     1 string data = "Treble: ja to pronto."
     [2145]
-     1 string data = "Clef: Shit. That's the..."
+     1 string data = "Clef: Merda. É o..."
     [2146]
-     1 string data = "Clef: The...it's...that's where[interrupt/]-"
+     1 string data = "Clef: O...é o...é onde[interrupt/]-"
     [2147]
-     1 string data = "Treble: the studio."
+     1 string data = "Treble: o estudo."
     [2148]
-     1 string data = "Clef: Shit."
+     1 string data = "Clef: Merda."
     [2149]
-     1 string data = "Clef: Shit shit shit shit shit."
+     1 string data = "Clef: Merda merda merda merda merda."
     [2150]
-     1 string data = "Clef: We just. <i>She</i> just..."
+     1 string data = "Clef: Nós só. <i>Ela</i> só..."
     [2151]
-     1 string data = "Clef: ...I think I know where she went."
+     1 string data = "Clef: ...Eu acho que eu sei onde ela foi."
     [2152]
-     1 string data = "Clef: We have to stop her. She's doing what I would do."
+     1 string data = "Clef: A gente precisa pará-la. Ela tá fazendo o que eu faria."
     [2153]
-     1 string data = "Poco: So, you said you had thoughts on the copy?"
+     1 string data = "Poco: Então, você disse que tinha algumas observações sobre o texto?"
     [2154]
-     1 string data = "Rest: We're not using it."
+     1 string data = "Rest: Nós não vamos usar."
     [2155]
-     1 string data = "ApocoProxy: Respectfully-[interrupt/]"
+     1 string data = "ApocoProxy: Respeitosamente-[interrupt/]"
     [2156]
-     1 string data = "RestProxy: <i>Respectfully,</i> I think we need a different approach."
+     1 string data = "RestProxy: <i>Respeitosamente,</i> acho que nós precisamos de uma abordagem diferente."
     [2157]
-     1 string data = "PocoProxy: We still need a face to blame."
+     1 string data = "PocoProxy: Nós ainda precisamos de alguém para culpar."
     [2158]
-     1 string data = "RestProxy: ...that's not how I want to do things."
+     1 string data = "RestProxy: ...não é assim que eu queria fazer as coisas."
     [2159]
-     1 string data = "ApocoProxy: That's fine if you don't want to <i>keep</i> doing things."
+     1 string data = "ApocoProxy: Tudo bem se você não quiser <i>continuar</i> fazendo as coisas."
     [2160]
      1 string data = "RestProxy: [wave amount=1]hhhhh[/wave]"
     [2161]
-     1 string data = "Rest: Beat, Quaver, Treble, and Clef."
+     1 string data = "Rest: Beat, Quaver, Treble, e Clef."
     [2162]
-     1 string data = "Rest: In another life, in another circumstance..."
+     1 string data = "Rest: Em outra vida, em outras circunstâncias..."
     [2163]
-     1 string data = "Rest: I could understand <i>why</i> they'd do the thing they're doing."
+     1 string data = "Rest: Eu poderia entender <i>porque</i> eles estão fazendo o que estão fazendo."
     [2164]
-     1 string data = "Rest: But that isn't the world we live in."
+     1 string data = "Rest: Mas esse não é o mundo em que vivemos."
     [2165]
-     1 string data = "Rest: Aiding and abetting these four is a <i>criminal offense.</i>"
+     1 string data = "Rest: A cumplicidade com esses quatro é uma <i>ofensa criminal.</i>"
     [2166]
-     1 string data = "Rest: That <i>includes</i> any unreported knowledge of illegal concerts and venues."
+     1 string data = "Rest: Isso <i>inclui</i> qualquer conhecimento não informado sobre concertos e vendas."
     [2167]
-     1 string data = "Rest: That's all."
+     1 string data = "Rest: Isso é tudo."
     [2168]
-     1 string data = "Rest: I give the stage to Crest, who will be explaining what our organization's broadest next steps are."
+     1 string data = "Rest: Eu passarei a fala para o Crest, que irá explicar quais são os próximos passos mais amplos da nossa organização."
     [2169]
-     1 string data = "Crest: Yes, uh, <size=80%>hehe</size>, ah, <size=80%>uh. uh.</size> Thank yo[wave amount=0.3]uuu![/wave] For the intro[wave amount=0.5]duction...[/wave]"
+     1 string data = "Crest: Sim, uh, <size=80%>hehe</size>, ah, <size=80%>uh. uh.</size> Obriga[wave amount=0.3]doooo![/wave] Pela intro[wave amount=0.5]dução...[/wave]"
     [2170]
-     1 string data = "Crest: My name is...<size=80%>aheh.</size> Well, she told you.<size=80%>hehehe.</size> <size=150%>Um.</size> I'm the Division Lead for HARM's field agents."
+     1 string data = "Crest: Meu nome é...<size=80%>aheh.</size> Bem, ela disse pra vocês.<size=80%>hehehe.</size> <size=150%>Um.</size> Eu sou o líder da divisão dos agentes de campo da HARM."
     [2171]
-     1 string data = "Crest: So. My job is to basically oversee the... actual... day-to-day operations work, of, <size=80%>ahumm.</size>"
+     1 string data = "Crest: Então. Meu trabalho é basicamente supervisionar o... dia a dia... day-to-day das operações, do, <size=80%>ahumm.</size>"
     [2172]
-     1 string data = "Poco: (move it along.)"
+     1 string data = "Poco: (vai logo com isso.)"
     [2173]
-     1 string data = "Crest: <size=70%>ahummm.</size> <size=90%>my</size><size=70%>heh.</size>[shake amount=1]hhh[/shake]<size=80%>mmahem.</size><size=90%>mmm</size><size=80%>-m-m</size>[wave amount=1]Myyyy...[/wave]"
+     1 string data = "Crest: <size=70%>ahummm.</size> <size=90%>meu</size><size=70%>heh.</size>[shake amount=1]hhh[/shake]<size=80%>mmahem.</size><size=90%>mmm</size><size=80%>-m-m</size>[wave amount=1]Meuuuu...[/wave]"
     [2174]
-     1 string data = "Crest: My job! <size=70%>ih-is-</size>is catching people! ...And-<size=90%>and</size> you might think us messing up, well"
+     1 string data = "Crest: Meu trabalho! <size=70%>eh-é-</size>é pegar pessoas! ...E-<size=90%>e</size> vocês podem achar que a gente tá pisando na bola, bem"
     [2175]
-     1 string data = "Crest: [wave amount=1]Okay![/wave] <size=80%>not that we messed up <i>too</i> bad...hhh...</size>"
+     1 string data = "Crest: [wave amount=1]Okay![/wave] <size=80%>a gente não pisou <i>muito</i> na bola...hhh...</size>"
     [2176]
-     1 string data = "Crest: <size=80%>...or... at <i>all,</i> but-</size><size=50%>......oob</size><size=120%>Um.</size> <size=80%>Wh-</size>what I mean is!"
+     1 string data = "Crest: <size=80%>...ou... não <i>pisamos,</i> mas-</size><size=50%>......oob</size><size=120%>Um.</size> <size=80%>O q-</size>o que eu quis dizer é que!"
     [2177]
      1 string data = "Crest: Um."
     [2178]
-     1 string data = "Crest: [wave amount=1]Ummmm...[/wave]there's... been a lotta <sup><i>wooork</i> <size=90%>that's</size></sup> gone into this,"
+     1 string data = "Crest: [wave amount=1]Ummmm...[/wave]tem... tem tido muito <sup><i>trabaaaaalho</i> <size=90%>sendo</size></sup> investido nisso,"
     [2179]
-     1 string data = "Crest: Uhhhhhhhh<size=50%> </size>Dozens of, field agents devoted to catching these <i><size=90%>specific</size> <b>four</b> guys.</i> <size=20%>:)</size>"
+     1 string data = "Crest: Uhhhhhhhh<size=50%> </size>Dúzias de, erm, agentes de campo devotos a pegar essas <b>quatro</b> pessoas <i><size=90%>específicas.</size></i> <size=20%>:)</size>"
     [2180]
-     1 string data = "Crest: And...<size=80%>and I know it's scary to think that <b>they</b> could hide from us that [wave amount=1]long.[/wave]</size>"
+     1 string data = "Crest: E...<size=80%>e eu sei que é assustado pensar que <b>elas</b> possam se esconder por tanto [wave amount=1]tempo.[/wave]</size>"
     [2181]
-     1 string data = "Crest: <size=40%>ggjj</size><size=20%>y</size><size=30%>y</size><size=40%>y</size><size=50%>y</size><size=60%>y</size><size=70%>y</size><size=80%>y</size>You[wave amount=2]uu[/wave] might even begin to think that these agents are incompetent, but, no, beca<size=105%>abbabab</size>[interrupt/]abap"
+     1 string data = "Crest: <size=40%>ggjj</size><size=20%>v</size><size=30%>o</size><size=40%>o</size><size=50%>o</size><size=60%>o</size><size=70%>o</size><size=80%>o</size>ovcê[wave amount=2]ees[/wave] podem até começar a pensar que esses agentes podem ser incompetentes, mas, não, porq<size=105%>uequeque</size>[interrupt/]queque"
     [2182]
-     1 string data = "Poco: But they are working <i>so so <b>hard</b></i> for us."
+     1 string data = "Poco: Mas eles estão trabalhando <i>tão tão <b>duro</b></i> por nós."
     [2183]
-     1 string data = "Poco: Give us a b[wave amount=1]iii[/wave]g hand for our Field Agent Divison Lead!"
+     1 string data = "Poco: Nos dêm uma gr[wave amount=1]aaaaaa[/wave]nde salva de palmas para o nosso Agente Líder da Divisão de Campo!"
     [2184]
-     1 string data = "Apoco: What a <i>big</i> strong guy, right?"
+     1 string data = "Apoco: Que cara <i>grande</i> e forte né?"
     [2185]
-     1 string data = "Poco: But <i>so so</i> busy. That's all the time he has."
+     1 string data = "Poco: Mas <i>tão</i> ocupado. Esse era todo o tempo dele."
     [2186]
-     1 string data = "Poco: [shake amount=0.1]<size=90%><i>No further questions.</i></size>[/shake]"
+     1 string data = "Poco: [shake amount=0.1]<size=90%><i>Sem mais perguntas.</i></size>[/shake]"
     [2187]
-     1 string data = "Crest: I...I haven't even gotten to laying out how we're[interrupt/]-"
+     1 string data = "Crest: E...eu nem cheguei a expor como nós[interrupt/]-"
     [2188]
-     1 string data = "Apoco: No, no. That's fine! He's been <i>great,</i> hasn't he!"
+     1 string data = "Apoco: Não, não, tá tudo bem! Ele foi <i>ótimo,</i> não foi?"
     [2189]
-     1 string data = "Apoco: Go get him, guy."
+     1 string data = "Apoco: Vai lá, cara."
     [2190]
-     1 string data = "Penny: Alright, almost got this."
+     1 string data = "Penny: Beleza, quase consegui."
     [2191]
-     1 string data = "Penny: Hang on [wave amount=1]onnnneeeeee[/wave] second."
+     1 string data = "Penny: Aguente [wave amount=1]uuuuuuuummmmmmm[/wave] segundinho."
     [2192]
-     1 string data = "Penny: There it is."
+     1 string data = "Penny: Aí está."
     [2193]
-     1 string data = "Beat: Someday, teach me that."
+     1 string data = "Beat: Me ensina isso, algum dia."
     [2194]
-     1 string data = "Penny: I'm surprised you didn't already know how."
+     1 string data = "Penny: Eu fico surpresa que você já não saiba como."
     [2195]
-     1 string data = "Beat: You'd think."
+     1 string data = "Beat: Você acha."
     [2196]
-     1 string data = "Penny: How the hell have you gotten by? You've definitely broken into[interrupt/]-"
+     1 string data = "Penny: Como diabos você tem se virado? Você definitivamente já invadiu[interrupt/]-"
     [2197]
-     1 string data = "Beat: Luck, mostly. Some smashed doors. Lotta stolen keys."
+     1 string data = "Beat: Sorte, principalmente. Algumas portas quebradas. Muitas chaves roubadas."
     [2198]
-     1 string data = "Penny: Well, okay. Sure. Some day I'll teach you. It's not that hard."
+     1 string data = "Penny: Bem, okay. Claro. Algum dia eu te ensino. Não é tão difícil."
     [2199]
-     1 string data = "Penny: Alright. So, if I remember correctly..."
+     1 string data = "Penny: Beleza. Então, se eu me lembro direito..."
     [2200]
-     1 string data = "Penny: All the elevators in this building have electronic locks. Keycard stuff."
+     1 string data = "Penny: Todos os elevadores nesse prédio tem travas eletrônicas. Com cartão de acesso."
     [2201]
-     1 string data = "Penny: Each keycard is only approved for a specific subset of floors and rooms, so..."
+     1 string data = "Penny: Cada cartão só passa em um subconjunto de andares e salas específico, então..."
     [2202]
-     1 string data = "Penny: We make it as far as we can, then we look for another."
+     1 string data = "Penny: Vamos o mais longe que conseguirmos, e então nós procuramos outro"
     [2203]
-     1 string data = "Penny: And then we make it to the top."
+     1 string data = "Penny: E aí chegamos lá no topo."
     [2204]
-     1 string data = "Beat: And at the top, we[interrupt/]..."
+     1 string data = "Beat: E no topo, nós[interrupt/]..."
     [2205]
-     1 string data = "Penny: There's a computer system up there that controls <i>all</i> HARM systems."
+     1 string data = "Penny: Tem um sistema de computador que controla <i>todos</i> os sistemas da HARM."
     [2206]
-     1 string data = "Penny: We smash that thing up, they're in shambles."
+     1 string data = "Penny: A gente detona aquilo e eles ficam em pedaços."
     [2207]
-     1 string data = "Beat: And we get the keycards by[interrupt/]-"
+     1 string data = "Beat: E a gente pega os cartões[interrupt/]-"
     [2208]
-     1 string data = "Penny: I mean, we don't do it quietly. We're past that."
+     1 string data = "Penny: Tipo, não fazemos na surdina. Já passamos dessa fase."
     [2209]
      1 string data = "Beat: ...[interrupt/]"
     [2210]
-     1 string data = "Penny: <i>That's why we're here.</i>"
+     1 string data = "Penny: <i>É por isso que estamos aqui.</i>"
     [2211]
-     1 string data = "Penny: Besides. Everyone here is a cop. Do you really <i>care?</i>"
+     1 string data = "Penny: Além disso. Todo mundo aqui é um policial. Você realmente <i>se importa?</i>"
     [2212]
-     1 string data = "Beat: Yeah, point."
+     1 string data = "Beat: É, você tem um ponto."
     [2213]
-     1 string data = "Beat: But what if we get swarmed?"
+     1 string data = "Beat: Mas e se ficarmos cercados?"
     [2214]
-     1 string data = "Penny: Blaze of glory?"
+     1 string data = "Penny: Explosão de glória?"
     [2215]
-     1 string data = "Beat: I'd rather stay alive[interrupt/]-"
+     1 string data = "Beat: Eu prefiro ficar viva[interrupt/]-"
     [2216]
-     1 string data = "Penny: Kidding."
+     1 string data = "Penny: Brincadeira."
     [2217]
-     1 string data = "Penny: Look, don't worry. If we do this right, we'll be fine."
+     1 string data = "Penny: Olha, não esquenta. Se fizermos direito, vamos ficar bem."
     [2218]
-     1 string data = "Penny: Security isn't gonna be too tight yet."
+     1 string data = "Penny: A segurança não vai estar muito rigorosa ainda."
     [2219]
-     1 string data = "Penny: DC isn't gonna be in a ground-floor break roo[interrupt/]m-"
+     1 string data = "Penny: O DC não vai estar numa sala de disjuntores dos primeiros andare[interrupt/]s-"
     [2220]
-     1 string data = "Beat: Well, maybe not <i>him.</i>"
+     1 string data = "Beat: Bem, talvez não <i>ele.</i>"
     [2221]
-     1 string data = "Penny: Shit. Beat, that's one of the division lead[interrupt/]s-"
+     1 string data = "Penny: Merda. Beat, esse é um dos líderes da divisã[interrupt/]o-"
     [2222]
-     1 string data = "Beat: Oh, I know."
+     1 string data = "Beat: Ah, eu sei."
     [2223]
-     1 string data = "Beat: We've met, actually."
+     1 string data = "Beat: A gente já se conhece, na real."
     [2224]
      1 string data = "Beat: ..."
     [2225]
-     1 string data = "Beat: <size=150%>Hey, toothpaste cop?</size>"
+     1 string data = "Beat: <size=150%>Ei, policial pasta de dente?</size>"
     [2226]
-     1 string data = "Crest: ...the...[wave amount=0.5]oh![/wave] It's...it's <i>you?</i>"
+     1 string data = "Crest: ...a...[wave amount=0.5]oh![/wave] É...é <i>você?</i>"
     [2227]
-     1 string data = "Crest: You...how'd you even <i>get in?</i>"
+     1 string data = "Crest: Como...como você <i>entrou?</i>"
     [2228]
-     1 string data = "Beat: The door got unlocked."
+     1 string data = "Beat: A porta ficou destrancada."
     [2229]
-     1 string data = "Crest: ...this is an <i>extremely</i> restricted area."
+     1 string data = "Crest: ...essa é uma área <i>extremamente</i> restrita."
     [2230]
-     1 string data = "Crest: You'd be under arrest even if you <i>weren't</i> wanted."
+     1 string data = "Crest: Você seria presa mesmo se você <i>não fosse</i> procurada."
     [2231]
-     1 string data = "Crest: I won't say this twice. <i>Put your hands where I can see them!</i>"
+     1 string data = "Crest: Eu não vou falar de novo. <i>Coloque suas mãos onde eu possa vê-las!</i>"
     [2232]
-     1 string data = "Beat: <size=80%>Sure. If that's what you want.</size>"
+     1 string data = "Beat: <size=80%>Claro. Se é isso que você quer.</size>"
     [2233]
-     1 string data = "Beat: This'll get us far, right?"
+     1 string data = "Beat: Isso nos leva longe, né?"
     [2234]
-     1 string data = "Beat: ...I almost feel bad for the guy."
+     1 string data = "Beat: ...Eu quase me sinto mal pelo cara."
     [2235]
-     1 string data = "Penny: Don't. He'd have done the same to you."
+     1 string data = "Penny: Não sinta. Ele faria o mesmo com você."
     [2236]
-     1 string data = "Penny: Regardless, no time to waste. Let's <i>get.</i>"
+     1 string data = "Penny: De todo jeito, não há tempo a perder. Vamos <i>lá.</i>"
     [2237]
-     1 string data = "Beat: <i>Weapons testing?</i>"
+     1 string data = "Beat: <i>Teste de armas?</i>"
     [2238]
-     1 string data = "Penny: Scary shit, right?"
+     1 string data = "Penny: Assustador, né?"
     [2239]
      1 string data = "Beat: ...eh."
     [2240]
-     1 string data = "Penny: Unimpressed?"
+     1 string data = "Penny: Não tá impressionada?"
     [2241]
-     1 string data = "Beat: I've been shot at by everything here already."
+     1 string data = "Beat: Tudo daqui já me atingiu alguma vez."
     [2242]
-     1 string data = "Penny: Yeah, but <i>that's</i> just what's hit the <i>public.</i>"
+     1 string data = "Penny: É, mas <i>aquilo</i> é só o que atinge o <i>público.</i>"
     [2243]
-     1 string data = "Penny: Sforzando's up to some <i>real</i> crazy shit here."
+     1 string data = "Penny: A Sforzando faz umas merdas <i>realmente</i> loucas aqui."
     [2244]
-     1 string data = "Penny: So <b>keep frosty.</b>"
+     1 string data = "Penny: Então <b>fique alerta.</b>"
     [2245]
-     1 string data = "Penny: Alright. Let's see how much they actually trust the big guy."
+     1 string data = "Penny: Beleza. Vamos ver quanto eles realmente confiam naquele cara."
     [2246]
-     1 string data = "Penny: Enough to ride this all the way."
+     1 string data = "Penny: Suficiente pra subir até o máximo desse elevador."
     [2247]
-     1 string data = "Beat: Beautiful."
+     1 string data = "Beat: Maravilha."
     [2248]
-     1 string data = "Penny: Only bad news is that "all the way" for this elevator is only <i>halfway.</i>"
+     1 string data = "Penny: A única má notícia é que o "máximo" desse elevador é só <i>metade.</i>"
     [2249]
-     1 string data = "Penny: We'll need to swap to another ride on floor 50."
+     1 string data = "Penny: Vamos ter que trocar de carona no andar 50."
     [2250]
-     1 string data = "Beat: Sounds eas-"
+     1 string data = "Beat: Parece fác-"
     [2251]
-     1 string data = "Beat: Wait, this building has <i>one hundred floors?</i>"
+     1 string data = "Beat: Pera, esse andar tem <i>cem andares?</i>"
     [2252]
-     1 string data = "Penny: Right? Tallest building in the[interrupt/]-"
+     1 string data = "Penny: Né? O prédio mais alto do[interrupt/]-"
     [2253]
-     1 string data = "Beat: <i>That's nuts. That's almost two thirds of a Burj Khalifa.</i>"
+     1 string data = "Beat: <i>Que loucura. É quase dois terços do Burj Khalifa.</i>"
     [2254]
-     1 string data = "Penny: ...a what?"
+     1 string data = "Penny: ...o quê?"
     [2255]
-     1 string data = "Beat: The tallest building in the world."
+     1 string data = "Beat: O prédio mais alto do mundo."
     [2256]
-     1 string data = "Penny: ...no? No, it's not. I've never heard of it."
+     1 string data = "Penny: ...não? Não, não é. Eu nunca ouvi falar."
     [2257]
-     1 string data = "Beat: Really?"
+     1 string data = "Beat: Sério?"
     [2258]
-     1 string data = "Penny: I'm <i>pretty sure of this.</i>"
+     1 string data = "Penny: Eu tenho <i>quase certeza.</i>"
     [2259]
-     1 string data = "Penny: Nothing beats HARM tower."
+     1 string data = "Penny: Nada supera a torre da HARM."
     [2260]
-     1 string data = "Penny: Anyway, that's our floor."
+     1 string data = "Penny: Enfim, esse é o nosso andar."
     [2261]
-     1 string data = "Beat: Uh. [wave amount=1]Hiiiiii.[/wave]"
+     1 string data = "Beat: Uh. [wave amount=1]Oiiiiiiii.[/wave]"
     [2262]
-     1 string data = "CopNPC: [camerashake amount=1/]<i>REPORT TO CREST.</i> EYES ON THE [camerashake amount=1/]SUSPECT. [camerashake amount=1/]FLOOR 50."
+     1 string data = "CopNPC: [camerashake amount=1/]<i>REPORTAR AO CREST.</i> OLHOS NA [camerashake amount=1/]SUSPEITA. [camerashake amount=1/]ANDAR 50."
     [2263]
-     1 string data = "Penny: Should've hit that guy harder."
+     1 string data = "Penny: Devia ter batido mais forte nele."
     [2264]
-     1 string data = "Beat: Goddammit."
+     1 string data = "Beat: Cacete."
     [2265]
-     1 string data = "Beat:  [wave amount=0.3]hhhhh.[/wave] Any way around?"
+     1 string data = "Beat:  [wave amount=0.3]hhhhh.[/wave] Algum jeito de contornar?"
     [2266]
-     1 string data = "Penny: No. And we can't go back. Train's already moving."
+     1 string data = "Penny: Não. E não dá pra voltar. O trem já tá andando."
     [2267]
-     1 string data = "Beat: [camerashake amount=1/]Let's build some track, then."
+     1 string data = "Beat: [camerashake amount=1/]Então vamos fazer alguns trilhos"
     [2268]
-     1 string data = "Beat: Alright, we're good!"
+     1 string data = "Beat: Beleza, tamo de boa!"
     [2269]
-     1 string data = "Beat: ...nevermind, we're <i>not</i> good!"
+     1 string data = "Beat: ...esquece, a gente <i>não</i> tá de boa!"
     [2270]
-     1 string data = "Penny: Crest must've disabled the main elevators completely."
+     1 string data = "Penny: Crest deve ter desabilitado completamente os elevadores principais."
     [2271]
-     1 string data = "Penny: <size=80%>Surprisingly smart move.</size>"
+     1 string data = "Penny: <size=80%>Jogada surpreendentemente esperta.</size>"
     [2272]
-     1 string data = "Beat: What now? We can't just sit around and wait to get caught."
+     1 string data = "Beat: E agora? Não dá pra ficar aqui e esperar ser pega."
     [2273]
-     1 string data = "Penny: Try some other doors. Maybe the one outside? Bioacoustics?"
+     1 string data = "Penny: Vamos tentar alguma outra porta. Talvez a de fora? Bioacústica?"
     [2274]
-     1 string data = "Penny: Cargo elevators aren't on the main line."
+     1 string data = "Penny: Elevadores de carga nem estão na linha principal"
     [2275]
-     1 string data = "Penny: If we find one, we can keep moving."
+     1 string data = "Penny: Se acharmos um, continuamos andando."
     [2276]
-     1 string data = "Beat: Alright, elevator's down. Now what?"
+     1 string data = "Beat: Beleza, o elevador já era. E agora?"
     [2277]
-     1 string data = "Beat: Nothing."
+     1 string data = "Beat: Nada."
     [2278]
-     1 string data = "Penny: <size=80%>He doesn't have access?</size>"
+     1 string data = "Penny: <size=80%>Ele não tem acesso?</size>"
     [2279]
-     1 string data = "Beat: Access to..[interrupt/].?"
+     1 string data = "Beat: Acesso a..[interrupt/].?"
     [2280]
-     1 string data = "Penny: Sheesh. You'd <i>think</i> they'd have given their head of ground troops a higher security clearance."
+     1 string data = "Penny: Caramba. Você <i>acha</i> que eles dariam um acesso maior pro chefe das tropas de campo deles."
     [2281]
-     1 string data = "Penny: Okay, okay, stick to the plan."
+     1 string data = "Penny: Okay, okay, segue o plano."
     [2282]
-     1 string data = "Penny: We either need to find a keycard marked Zeta Zeta..."
+     1 string data = "Penny: Ou achamos um cartão de acesso com a marca Zeta Zeta..."
     [2283]
-     1 string data = "Penny: Or we find another door out of here."
+     1 string data = "Penny: Ou achamos uma porta pra sair daqui."
     [2284]
      1 string data = "Beat: I'm sure somebody must've left their badge lying around."
     [2285]
