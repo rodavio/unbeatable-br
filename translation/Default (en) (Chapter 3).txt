@@ -5,7 +5,7 @@
  1 UInt8 m_Enabled = 1
  0 PPtr<MonoScript> m_Script
   0 int m_FileID = 1
-  0 SInt64 m_PathID = 4247
+  0 SInt64 m_PathID = 4265
  1 string m_Name = "Default (en)"
  1 string _LocaleCode = "en"
  0 StringDictionary _stringTable
